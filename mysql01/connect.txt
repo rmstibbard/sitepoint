@@ -1,4 +1,5 @@
+// At Windows command prompt:
 cd c:\xampp\mysql\bin
 
-mysql -u root -ppassword
-
+// Connect to mysql:
+mysql -u root -h localhost -ppassword
