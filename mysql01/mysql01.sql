@@ -15,7 +15,7 @@ SHOW DATABASES
 \p
 ;
 
-// Clear a commad before it is finished:
+// Clear a command before it is finished, e.g. if a mistake is spotted:
 SHOW DATBASES
 \c
 
