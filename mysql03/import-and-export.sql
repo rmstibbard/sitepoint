@@ -30,5 +30,5 @@ INSERT INTO widgets (widget_id, name)
 source import.sql
 
 // Export to SQL file:
-mysqldump -u root -psimple wisget_sales > export.sql
+mysqldump -u root -psimple widget_sales > export.sql
 
